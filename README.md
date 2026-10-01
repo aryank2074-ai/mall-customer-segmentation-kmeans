@@ -87,7 +87,7 @@ Load Data → Data Checks → Select Features (Income, Spending)
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/mall-customer-segmentation-kmeans.git
+git clone https://github.com/<aryank2074-a>/mall-customer-segmentation-kmeans.git
 cd mall-customer-segmentation-kmeans
 
 # 2. Install dependencies
